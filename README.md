@@ -1,4 +1,4 @@
-# Azure Blob Storage – Basic Security Lab (AZ-900)
+# Azure Blob Storage 
 
 This project demonstrates the fundamentals of Azure Blob Storage with a focus on
 basic security concepts relevant to the AZ-900 (Microsoft Azure Fundamentals) exam.
